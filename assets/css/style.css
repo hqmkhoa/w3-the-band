@@ -157,7 +157,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/front_end/w3_the_netflix/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('https://samnec.com.vn/uploads/images/102020/netflix-bia.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
