@@ -157,35 +157,27 @@ html {
 
 
 #slider {
-<<<<<<< HEAD
   position: relative;
   margin-top: 46px;
   padding-top: 50%;
   background: url("https://samnec.com.vn/uploads/images/102020/netflix-bia.jpg") top
     center / cover no-repeat;
-=======
-    position: relative;
-    margin-top: 46px;
-    padding-top: 50%;
-    background: url('https://samnec.com.vn/uploads/images/102020/netflix-bia.jpg') top center / cover no-repeat;
->>>>>>> 24f471482689657e88a9e2213e37659495a55468
 }
 
 #slider .text-content {
-  position: absolute;
+  /* position: absolute; */
   bottom: 47px;
   color: #fff;
   width: 100%;
   text-align: center;
 }
-#slider .text-heading {
-}
+
 #slider .text-desc {
   margin-top: 25px;
+  text-shadow: 0 0 1px #000;
 }
 
-#content {
-}
+
 #content .content-section {
   width: 800px;
   max-width: 100%;
@@ -441,7 +433,6 @@ html {
 }
 
 @keyframes modalFadeIn {
-<<<<<<< HEAD
   from {
     opacity: 0;
     transform: translateY(-140px);
@@ -450,14 +441,4 @@ html {
     opacity: 1;
     transform: translateY(0);
   }
-=======
-    from {
-        opacity: 0;
-        transform: translateY(-140px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
->>>>>>> 24f471482689657e88a9e2213e37659495a55468
 }
